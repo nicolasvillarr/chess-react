@@ -1,0 +1,16 @@
+.tile {
+    width:75px;
+    height:75px;
+}
+
+.white {
+background-color: #F5E7C0;
+}
+
+.black {
+    background-color: #66433B;
+}
+
+.pieceImage {
+    width: 10px;
+}
